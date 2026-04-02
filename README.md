@@ -1,23 +1,18 @@
 
-# Team Number – Project Title
+# AG5 – A Hybrid Deep Learning Strategy for Real-Time Assembly Task Recognition Based on Hand Joint Trajectories
 
 ## Team Info
-- 22471A05XX — **Name** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )
-_Work Done: xxxxxxxxxx_
+- 22471A0544— **Patibandla Prasanthi** ( (https://www.linkedin.com/in/prasanthi-patibandla-997b8036a?utm_source=share_via&utm_content=profile&utm_medium=member_android) )
+_Work Done: Backend_
 
-- 22471A05XX — **Name** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )
-_Work Done: xxxxxxxxxx_
+- 22471A05XX — **Katekeni Hemanthini** ( (https://www.linkedin.com/in/katikeni-hemanthini-826395301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) )
+_Work Done: Frontend_
 
-- 22471A05XX — **Name** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )
-_Work Done: xxxxxxxxxx_
-
-- 22471A05XX — **Name** ( [LinkedIn](https://linkedin.com/in/xxxxxxxxxx) )
-_Work Done: xxxxxxxxxx_
-
----
+- 22471A0523 — **Gopu Pavani** ( (https://www.linkedin.com/in/gopu-pavani-084518374?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ))
+_Work Done: PPTs and documents_
 
 ## Abstract
-xxxxxxxxxx
+
 
 ---
 
